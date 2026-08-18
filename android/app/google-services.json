@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049239223926",
+    "project_id": "smart-travel-companion-1d287",
+    "storage_bucket": "smart-travel-companion-1d287.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049239223926:android:fc72c00c4d392822e22957",
+        "android_client_info": {
+          "package_name": "com.example.smart_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049239223926-pj7ssm0sdbs6vstq05ev5gpa13goi1l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVwJVoQerkXK0AvrIiEQX6zG2HnH4gIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049239223926-pj7ssm0sdbs6vstq05ev5gpa13goi1l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
